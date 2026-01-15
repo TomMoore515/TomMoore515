@@ -10,7 +10,7 @@ Sci-fi multiplayer factory automation + persistent pvp economic simulation game
 
 ### 📈 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TomMoore515)](https://github.com/TomMoore515/TomMoore515)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomMoore515&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TomMoore515)](https://github.com/TomMoore515/TomMoore515)
 
