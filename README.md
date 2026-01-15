@@ -1,7 +1,5 @@
 ### 👋 Hey, I'm Tom. a Solo dev building games in Unity
 
----
-
 ### 🪄 Automancer
 Magepunk factory-automation + RPG exploration sandbox game
 
