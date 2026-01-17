@@ -5,9 +5,6 @@
 ### 🪄 Automancer
 A magepunk factory automation + RPG exploration sandbox game
 
-### 🌍 Starfoundry
-A sci-fi multiplayer only factory automation + persistent pvp economic simulation game
-
 ---
 
 ### 📈 Stats
