@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Tom. a Solo dev building games in Unity
+### 👋 Hey, I'm Tom. a Solo dev building games @LuthienStudios
 
 ---
 
@@ -9,7 +9,7 @@ A magepunk factory automation + RPG exploration sandbox game
 
 ### 📈 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomMoore515&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomMoore515&theme=github-dark&hide_border=true)]([https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=TomMoore515&theme=github-dark&hide_border=true))
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TomMoore515&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/TomMoore515/TomMoore515)
 
