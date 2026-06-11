@@ -11,8 +11,6 @@ An alchemy based factory automation game
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomMoore515&theme=github-dark&hide_border=true)]([https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=TomMoore515&theme=github-dark&hide_border=true))
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TomMoore515&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/TomMoore515/TomMoore515)
-
 ---
 
 ### 🤝 Contact
