@@ -3,7 +3,7 @@
 ---
 
 ### 🪄 Automancer
-A magepunk factory automation + RPG exploration sandbox game
+An alchemy based factory automation game
 
 ---
 
