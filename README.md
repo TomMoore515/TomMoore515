@@ -10,10 +10,3 @@ An alchemy based factory automation game
 ### 📈 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomMoore515&theme=github-dark&hide_border=true)]([https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=TomMoore515&theme=github-dark&hide_border=true))
-
----
-
-### 🤝 Contact
-If you’re into indie dev, technical art, engine development, or GPUs let’s chat
-
-[![Discord](https://img.shields.io/badge/Discord-Add%20Friend-5865F2?logo=discord&logoColor=white)](https://discord.gg/vQN42Kgv)
